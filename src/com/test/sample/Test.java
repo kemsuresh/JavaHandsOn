@@ -53,6 +53,7 @@ public class Test<T> {
 		System.out.printf("Output %d = %s \n",2, out1);
 		System.out.printf("Output %d = %s \n",3, out2);
 		System.out.printf("Output %d = %s \n",4, out3);
+		// ---------------------------------------------
 		System.out.printf("Output %d = %s \n",5, students);
 		System.out.printf("Output %d = %s \n",5, outMap);
 		System.out.printf("Output %d = %s \n",6, out111);
