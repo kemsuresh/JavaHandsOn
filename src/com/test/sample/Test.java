@@ -51,6 +51,7 @@ public class Test<T> {
 		// -----------------------------------------
 		System.out.printf("Output %d = %s \n",1, out);
 		System.out.printf("Output %d = %s \n",2, out1);
+		// --------------------------------------------
 		System.out.printf("Output %d = %s \n",3, out2);
 		System.out.printf("Output %d = %s \n",4, out3);
 		// ---------------------------------------------
