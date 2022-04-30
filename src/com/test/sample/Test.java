@@ -55,6 +55,7 @@ public class Test<T> {
 		System.out.printf("Output %d = %s \n",5, outMap);
 		System.out.printf("Output %d = %s \n",6, out111);
 		System.out.printf("Output %d = %s \n",7, out4);
+		// ---------------------------------------------------
 	}
 
 	private static <A> Pair1<A, ?> toPair(A out1) {
